@@ -1,0 +1,40 @@
+[Run]
+	Locust Fork of the Warrior River
+[Section]
+	Swann Bridge or Rt. 160
+[Class]
+	II (III)2.2' to 3.5'
+	III (III+) above 3.5'
+[Put-In]
+	231/79 bridge
+[Gradient]
+	23'/mile
+[Take-Out]
+	Swann Bridge or Rt. 160
+[Length]
+	5 or 7
+[Precip. Gage]
+	[url path="http://lakeinfo.tva.gov/htbin/getprecip"]Albertville[end url]
+[Shuttle]
+	79 / Swann or Rt. 160
+[Delorme Gazeteer]
+	P. 25 F8/F7
+[Water Q]
+	2
+[Primary Gage]
+	[url path="http://waterdata.usgs.gov/al/nwis/uv/?site_no=02455000&PARAmeter_cd=00065,00060"]Locust at Cleveland[end url] 231/79 bridge
+[Primary Required Level]
+	2.2'
+[Indicator Gage]
+
+[Indicator Required Level]
+
+[Links]
+	[url path="http://msrmaps.com/image.aspx?T=2&S=13&Z=16&X=335&Y=2351&W=3"]TOPO MAP[end url]
+	PICTURES
+	TRIP REPORT
+	[url path="http://www.flfr.org/]Friends of the Locust[end url]
+	[url path="http://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=113593873002033504452.00046680251ac1c3a7848&ll=34.004858,-86.588573&spn=0.08211,0.181274&z=13"]GOOGLE MAP[end url]
+
+[Thumbnail]
+	locustlow.JPG

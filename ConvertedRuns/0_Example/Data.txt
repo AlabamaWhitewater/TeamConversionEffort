@@ -1,0 +1,34 @@
+[Run]
+	
+[Section]
+	
+[Class]
+	
+[Put-In]
+	
+[Gradient]
+	
+[Take-Out]
+	
+[Length]
+	
+[Precip. Gage]
+	
+[Shuttle]
+	
+[Delorme Gazeteer]
+	
+[Water Q]
+	
+[Primary Gage]
+	
+[Primary Required Level]
+	
+[Indicator Gage]
+	
+[Indicator Required Level]
+	
+[Links]
+	
+[Thumbnail]
+	

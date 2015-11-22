@@ -1,0 +1,55 @@
+[image]
+	[path]
+		locusta1.JPG
+	[description]
+		A very early rogue sighting at House Rock.  That might be Dave B, Murray, and Rob Welch in the eddy but I'm not sure.  No Helmets required in 1994, evidently.
+[end image]
+
+[image]
+	[path]
+		locust5.JPG
+	[description]
+		A beautiful cold day, Tilt-a-Whirl rapid at 2.7'.
+[end image]
+
+[image]
+	[path]
+		locustlow.JPG
+	[description]
+		Murray Carroll tempting fate by running to the right of the pillow rock at the bottom of the first drop of Double Trouble.  Note his manly lack of helmet.  This is back when the boats were big and the men were men.
+[end image]
+
+[image]
+	[path]
+		locusta2.JPG
+	[description]
+		Jeff Bowen says "what the heck" as he rides out the first drop of Double Trouble next to, rather than in, his boat.  December 1993.
+[end image]
+
+[image]
+	[path]
+		locusta3.JPG
+	[description]
+		Charlie Stotts in truly rare form way back in 1992 on Powell Falls.  Them are muscles and that is a whoppin' big foam block, ladies and gentlemen.  Not a small boat to be seen back then.
+[end image]
+
+[image]
+	[path]
+		locusta4.JPG
+	[description]
+		Murray and Kay Carroll looking good at the bottom of Powell Falls, 2.6', February 1993.
+[end image]
+
+[image]
+	[path]
+		locustja1.JPG
+	[description]
+		Jeremy Adkins at Ender Hole below Powell Falls.
+[end image]
+
+[image]
+	[path]
+		locustja2.JPG
+	[description]
+		Jeremy Adkins, inverted once again.
+[end image]
